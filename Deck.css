@@ -1,0 +1,31 @@
+.Deck {
+  font-family: "Slabo 27px";
+  display: flex;
+  flex-direction: column;
+}
+
+.Deck-cardArea {
+  margin-top: 80px;
+}
+
+.Deck-btn {
+  background-color: #202020;
+  outline: none;
+  font: inherit;
+  border: none;
+  margin: 0.5em;
+  padding: 1em 2em;
+  text-transform: uppercase;
+  color: white;
+}
+
+.Deck-title {
+  color: azure;
+  font-size: 40px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+
+.subtitle {
+  font-size: 20px;
+}
